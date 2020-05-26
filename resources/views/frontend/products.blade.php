@@ -3,6 +3,8 @@
 
 @section('title', 'Products')
 
+@section('nav_products','active');
+
 @section('content')
 
 <head>
