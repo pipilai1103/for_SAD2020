@@ -1,0 +1,7 @@
+body, h1, h2, h3 ,h4 ,h5, h6, p{
+    font-family: '微軟正黑體', -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol" !important;
+}
+
+.list-hours .list-hours-item {
+    font-style: normal;
+}

@@ -1,0 +1,13 @@
+body {
+    font-family: '微軟正黑體', 'Lora', sans-serif;
+}
+
+.page-section {
+    background-color: #f3f8fc;
+    border: 1px solid #DDDFE2;
+    border-radius: 3px;
+}
+
+td form {
+    display: inline;
+}
